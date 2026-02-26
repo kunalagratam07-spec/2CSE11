@@ -1,6 +1,6 @@
 # Assignment 0 – Database Creation 
 
-## Objective
+## 🎯Objective
 To create database `KUNAL` and `department` & `employee` tables with inserted values.
 
 ---
