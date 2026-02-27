@@ -1,4 +1,4 @@
-# Assignment 5 – Aggregate & String Functions
+# Experiment 5 – Aggregate & String Functions
 
 ## 🎯 Objective
 To perform aggregate functions and string operations on the `employee` table.
