@@ -1,4 +1,4 @@
-# Assignment 4 – Conditional Queries & Salary Calculations
+# Experiment 4 – Conditional Queries & Salary Calculations
 
 ## 🎯 Objective
 To perform conditional filtering, salary calculations, updates, and pattern-based queries on the `employee` table.
