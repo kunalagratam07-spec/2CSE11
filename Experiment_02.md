@@ -1,4 +1,4 @@
-# Assignment 2 – Retrieving Data from Employee Table
+# Experiment 2 – Retrieving Data from Employee Table
 
 ## 🎯 Objective
 To perform various SELECT queries on the `employee` table to retrieve specific information.
