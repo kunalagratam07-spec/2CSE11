@@ -1,4 +1,4 @@
-# Assignment 3 – Advanced Retrieval Queries
+# Experiment 3 – Advanced Retrieval Queries
 
 ## 🎯 Objective
 To perform advanced filtering, pattern matching, ordering, and salary calculations using the `employee` table.
