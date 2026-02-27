@@ -1,4 +1,4 @@
-# Assignment 1 – Table Operations on Employee_Master
+# Experiment 1 – Table Operations on Employee_Master
 
 ## 🎯 Objective
 To perform table creation, deletion, update, alteration, and drop operations using `employee_master` table.
