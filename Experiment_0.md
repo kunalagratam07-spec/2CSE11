@@ -1,4 +1,4 @@
-# Experiment 0 – Database Creation 
+# Experiment 0 – Database Creation
 
 ## 🎯Objective
 To create database `KUNAL` and `department` & `employee` tables with inserted values.
