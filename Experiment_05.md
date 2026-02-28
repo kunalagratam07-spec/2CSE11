@@ -141,9 +141,3 @@ SELECT LENGTH('KUNAL') AS name_length;
 ```sql
 SELECT ename, LENGTH(ename) AS name_length
 FROM employee;
-```
-
----
-
-## ✅ Conclusion
-Successfully applied aggregate functions and string functions on the `employee` table.
