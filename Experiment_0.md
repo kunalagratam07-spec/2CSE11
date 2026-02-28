@@ -112,9 +112,3 @@ INSERT INTO employee VALUES
 
 ```sql
 SELECT * FROM employee;
-```
-
----
-
-## ✅ Conclusion
-Successfully created database `KUNAL` and tables `department` and `employee` with inserted records.
