@@ -103,9 +103,3 @@ WHERE job IN ('CLERK', 'ANALYST', 'SALESMAN');
 SELECT ename, deptno
 FROM employee
 WHERE ename LIKE 'M%';
-```
-
----
-
-## ✅ Conclusion
-Successfully executed multiple SELECT queries to retrieve filtered data from the `employee` and `department` tables.
