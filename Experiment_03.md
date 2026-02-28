@@ -104,9 +104,3 @@ SELECT ename
 FROM employee
 WHERE job IN ('CLERK', 'SALESMAN', 'ANALYST')
 AND sal > 3000;
-```
-
----
-
-## ✅ Conclusion
-Successfully executed advanced SQL queries involving filtering, pattern matching, sorting, and salary calculations on the `employee` table.
