@@ -111,9 +111,3 @@ WHERE sal * 1.20 > 3000;
 SELECT ename, sal
 FROM employee
 WHERE sal >= 100;
-```
-
----
-
-## ✅ Conclusion
-Successfully executed conditional filtering, salary calculations, updates, and pattern-based SQL queries on the `employee` table.
