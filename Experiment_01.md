@@ -46,9 +46,3 @@ MODIFY sal DECIMAL(10,2);
 
 ```sql
 DROP TABLE employee_master;
-```
-
----
-
-## ✅ Conclusion
-Successfully performed table creation, deletion, update, alteration, and drop operations on `employee_master` table.
