@@ -1,4 +1,4 @@
-# Assignment 6 – Date & Special Functions
+# Experiment 6 – Date & Special Functions
 
 ## 🎯 Objective
 To perform date manipulation, formatting, and special SQL functions on the `employee` table.
