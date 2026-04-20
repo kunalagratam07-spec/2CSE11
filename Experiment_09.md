@@ -1,4 +1,4 @@
-# 📘 Experiment 9 – Subqueries & Nested Queries
+# Experiment 9 – Subqueries & Nested Queries
 
 ## 🎯 Objective  
 To perform SQL queries using subqueries, nested queries, and conditional filtering on the `employee` and `department` tables using MariaDB.
