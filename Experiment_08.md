@@ -1,4 +1,4 @@
-# 📘 Experiment 8 – Joins & Advanced Queries
+# Experiment 8 – Joins & Advanced Queries
 
 ## 🎯 Objective  
 To perform SQL queries using joins, self-joins, aggregate functions, and table modifications on the `employee`, `department`, and `salgrade` tables using MariaDB.
