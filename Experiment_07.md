@@ -1,4 +1,4 @@
-# 📘 Experiment 7 – Aggregate & Advanced Queries
+# Experiment 7 – Aggregate & Advanced Queries
 
 ## 🎯 Objective  
 To perform aggregate functions, grouping, conditional queries, and date calculations on the `employee` table using MariaDB.
